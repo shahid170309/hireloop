@@ -1,0 +1,6 @@
+{
+  "name": "HireLoop",
+  "description": "Job application tracker and AI interview coach with follow-up scheduling, Due Today and Overdue badges, idle application alerts, and upcoming interview preparation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
